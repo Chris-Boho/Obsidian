@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "882b9bcd88871432",
+    "type": "split",
+    "children": [
+      {
+        "id": "033851bebf6680cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f7d6735e5a65b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEN5079/Access Control.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b524403ecc22c01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEN5079/Midterm Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a647a0358727f70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d563e731891d4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5cf018de36aaff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2adde91a71ccebb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Risk",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba40da2c5bab8b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "580eb2fcb8fe4037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d1fd24e9f62b5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CEN5079/Midterm Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b524403ecc22c01b",
+  "lastOpenFiles": [
+    "CEN5079/Midterm Review.md",
+    "CEN5079/Access Control.md",
+    "CEN5079/Architecture.md",
+    "CEN5079/Threat Modeling.md",
+    "CEN5079/Reconnaissance.md",
+    "CIS 5373/CIS 5373 - Lesson 1.md",
+    "CIS 5373/CIS 5373 - Lesson 6.md",
+    "CIS 5373/CIS 5373 - Lesson 5.md",
+    "CIS 5373/CIS 5373 - Lesson 9.md",
+    "TCN 5440/Class 2.md"
+  ]
+}
