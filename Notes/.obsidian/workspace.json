@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f1bc84019bdf7468",
+        "id": "033851bebf6680cd",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEN5079/Architecture.md",
+                "file": "CEN5079/Access Control.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b524403ecc22c01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEN5079/Midterm Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEN5079/Architecture.md",
+                "file": "CEN5079/Midterm Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,14 +111,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b8f7d6735e5a65b6",
+  "active": "b524403ecc22c01b",
   "lastOpenFiles": [
-    "CEN5079/Threat Modeling.md",
+    "CEN5079/Midterm Review.md",
     "CEN5079/Access Control.md",
-    "CEN5079/Reconnaissance.md",
     "CEN5079/Architecture.md",
+    "CEN5079/Threat Modeling.md",
+    "CEN5079/Reconnaissance.md",
     "CIS 5373/CIS 5373 - Lesson 1.md",
-    "Untitled.md",
     "CIS 5373/CIS 5373 - Lesson 6.md",
     "CIS 5373/CIS 5373 - Lesson 5.md",
     "CIS 5373/CIS 5373 - Lesson 9.md",
