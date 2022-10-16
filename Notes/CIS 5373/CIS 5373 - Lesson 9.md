@@ -1,0 +1,48 @@
+- frameworks.pdf
+
+- Policies are written to help the organization
+- Procedures are there to maintain consistency
+- PCI is a standard not a law
+- Strategic Planning: 
+	- a specific plan or method to accomplish a goal
+	- amateurs speak strategy, professionals speak tactics
+	- the difference is the details
+	- strategy is an overview or general plan
+		- tactics are the day to day (operational) plan/details
+- PCI is 'prescriptive'
+	- 'must have firewall'
+	- its very specific on what must be done
+	- NIST is more general 
+	- 'implement security controls', thats not specific , up to organization
+- HIPAA
+	- Health Insurance Portability and Accountability Act
+	- implemented because health information was found in a dumpster in Washington DC
+	- Confidentiality, integrity, and availability of electronic protected health information (ePHI) **IMPORTANT
+- FHR
+	- used for inter-operability between hospitals
+- PCI
+	- payment card industry
+	- credit card protection basically
+	- not a regulation
+	- ITS A STANDARD
+- QSA
+- CIS
+	- center for internet security
+- NIST 800-53
+	- 17 control families
+	- 325 moderate controls
+	- theres low, moderate, and high controls
+	- different options available according to risk/impact
+	- low = minimal security requirements
+- threats, vulnerabilites, risks, impact **IMPORANT
+- ISO 27001
+	- 10 sections
+	- 114 controls
+	- risk management
+	- international standards organization
+- Implementing Controls
+	- how to measure the control
+	- look to the frameworks as a guide
+	- Safe Harbor Act
+		- if a business is following at least the minimum security practices then they will be partially pardoned 
+		- 

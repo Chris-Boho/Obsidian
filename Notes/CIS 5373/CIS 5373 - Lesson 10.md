@@ -1,0 +1,35 @@
+- Same lecture as lesson 9...
+- infosec pdf
+
+- Key Performance Indicators (KPIs)
+	- **measurable** value that demonstrates how **effectively** a company is achieving key business objectives
+	- analyis of KPIs provides a snapshot of how a security program is performing over time
+- Key Risk Indicators (KRIs)
+- Importance of Security Metrics
+	- "If it can't be measured, it can't be improved"
+	- Defining 'good' metrics is hard 
+	- Follow 'SMART':
+		- Specific
+		- Measurable
+		- Actionable
+		- Relevant
+		- Timely
+- What makes a good metric?
+	- look at slide 7
+- NIST CSF Maturity Level
+	- Identify 
+	- Protect
+	- Detect 
+	- Respond
+	- Recover
+- Research NIST frameworks a bit for final
+- Difference dashboards to present data
+
+**- Interview possible questions**
+	- what motivates you 
+	- if i ask your friends for three traits about you
+	- talk about your job background
+	- what emergent technology have you used
+	- do you have hands on experience
+	- what are you analytical skills (where do you get your information)
+	- personality traits are actually imporant etc (mindful, passionate, etc)

@@ -1,0 +1,68 @@
+### Security Architecture
+- a body of high-level design principles and decisions that allow a programmer to judge the security with confidence
+- a framework for secure design, which embodies the four classic stages of information security
+	- Protect
+	- Deter
+	- Detect
+	- React
+- Security is a measure of the architecture's ability to resist unauthorized usage 
+
+## Design Principles
+- #### Economy of Mechanism
+	- design should be as simple as possible
+	- black-box / functional testing
+- #### Fail-safe defaults
+	- deny as default action
+		- grant acess only on explicit permission
+	- new accounts dont have admin privileges
+	- minimum password length
+	- files are write protected
+- #### Complete Mediation
+	- complete access control
+		- check every access to every object
+		- identification of authentication for action
+	- trusted path
+		- make sure user is talking to authentication program
+		- any value that can be influenced by user cannot be trusted
+- #### Open Design
+	- open source
+	- a system should be secure even if the adversary knows everything about its design
+	- doesnt not include things like secret keys
+	- allows review
+	- established trust
+	- security depends on secrecy of few, small tokens
+		- keys 
+		- passwords
+- #### Separation of Privilege
+	- Access depends on more than one condition
+		- for example, two keys are required to access a resource two privileges can be physically distributed
+		- EX: launch of nukes requires two people
+	- Compartmentalization (isolation)
+		- break system in different parts
+		- minimize privileges in each part
+		- dont implement all or nothing model
+			- minimizes possible damage
+	- Sandbox
+		- java sandbox 
+		- VM's 
+	- Authorization should only be provided to those who require it
+		- not everybody needs to be able to do everything
+- #### Least Privilege
+	- subjects posses the minium required authority to complete their task
+- #### Least Common Mechanism
+	- Privilege hierarchy 
+		- OS
+		- Users and Processes with System Privileges 
+		- Users and Processes
+		- Unprivileged Processes
+	- Ring 0 - 3 etc....
+- #### Psychological Acceptability
+	- easy to use GUI
+
+### Layer Defenses / Protections
+- firewall
+- anti-virus
+- bit-locker
+- user authentication
+- secure boot
+- kernel protections
