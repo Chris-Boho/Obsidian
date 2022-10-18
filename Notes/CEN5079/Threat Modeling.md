@@ -1,5 +1,5 @@
 # Threat Modeling
-- Proces of systematically identifying threats faced by the system
+- Process of systematically identifying threats faced by the system
 
 1. Identify things of value that you want to protect
 2. Enumerate the attack surfaces
