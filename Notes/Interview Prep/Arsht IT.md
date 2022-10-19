@@ -1,0 +1,9 @@
+-   Why do you want to intern at the Arsht Center?
+-   How would this Internship help you reach your future goals?
+-   Are you looking for a career in Arts Management? 
+-   What interests you the most about Arts Management?
+-   Tell us what you are most passionate about learning – professionally. And why?
+-   Tell us about your volunteer or community service experience.
+-   Do you have prior scheduling commitments or conflicts with a January start date?
+-   If you aren’t selected for (specific dept), what other departments would you be interested in working with and why?
+	-   IT, Marketing, Public Relations, Accounting, Programming, Arts Education, Production, Front of House
