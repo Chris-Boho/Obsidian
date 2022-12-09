@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71e3554c085c1ff7",
+            "id": "dd20f392463ae685",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "TCN 5030/Pasted image 20221208180820.png"
+              }
+            }
+          },
+          {
+            "id": "b7f28196a66c3f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCN 5440/Class 1.md",
+                "file": "TCN 5030/Final Exam Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCN 5440/Class 1.md",
+                "file": "TCN 5030/Final Exam Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71e3554c085c1ff7",
+  "active": "b7f28196a66c3f53",
   "lastOpenFiles": [
+    "TCN 5030/Pasted image 20221208180820.png",
+    "TCN 5030/Pasted image 20221208181855.png",
+    "TCN 5030/Final Exam Review.md",
+    "TCN 5440/Class 1.md",
     "TCN 5440/Class 2.md",
     "CEN5079/Final Notes/Distributed Denial of Service.md",
     "CEN5079/Final Notes/Systems Security.md",
     "CEN5079/Final Notes/Stack Frame Example.png",
     "CEN5079/Final Notes/Reverse Engineering.md",
-    "CEN5079/Final Notes/Forensic Analysis.md",
-    "CEN5079/Final Notes/Stack Overflow.md",
-    "CEN5079/Final Notes/Web Security.md",
-    "CEN5079/Final Notes/Registers.md",
-    "CEN5079/Midterm Review.md"
+    "CEN5079/Final Notes/Forensic Analysis.md"
   ]
 }
